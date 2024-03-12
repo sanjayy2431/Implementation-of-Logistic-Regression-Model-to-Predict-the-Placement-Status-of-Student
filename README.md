@@ -39,7 +39,8 @@ data1.head()
 data1.isnull()
 ```
 
-![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/9d90fd32-6856-4bb3-b06e-19836eda4a70)
+![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/eac5ec7e-db34-47b7-9a87-da94c972a4ef)
+
 ```
 data1.duplicated().sum()
 ```
