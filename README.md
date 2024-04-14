@@ -83,11 +83,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-## ORIGINAL DATA AFTER MOVING
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/ace4da3d-4eb1-4c52-8fbc-486544a0b5eb)
 
 
-## Data after dropping unwanted columns
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/057f505a-48ae-4053-8956-51a3fe4d0347)
 
 
@@ -99,15 +98,9 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/034da63e-13af-483a-ae46-8768948cbd10)
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/e87135d0-7f1e-47ea-8fcc-886eee8b380f)
-```
-x=data1.iloc[:,:-1]
-x
-```
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/fd2ede0e-176a-45c6-9158-c18ba9b2d930)
-```
-y=data1["status"]
-y
-```
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/0de8823d-ffb5-4405-80a7-d686975db8b7)
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/43773e61-93af-4366-89b2-d9eea9c8a87a)
@@ -117,9 +110,7 @@ y
 
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/2b4ee5d4-25a1-42ab-8ead-6bc378546d82)
-```
-lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-```
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/4014a5dc-2496-479c-92f9-33faabc1540f)
 
 
