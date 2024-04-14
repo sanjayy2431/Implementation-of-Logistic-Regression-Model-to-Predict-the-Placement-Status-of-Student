@@ -23,6 +23,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: v.sanjay
 RegisterNumber:  212223230188
 ```
+```
 
 import pandas as pd
 data=pd.read_csv("/content/Placement_Data.csv")
@@ -79,7 +80,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
 
-
+```
 ## Output:
 ## ORIGINAL DATA AFTER MOVING
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/ace4da3d-4eb1-4c52-8fbc-486544a0b5eb)
