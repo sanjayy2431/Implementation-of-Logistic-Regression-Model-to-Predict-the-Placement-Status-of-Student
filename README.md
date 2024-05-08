@@ -16,15 +16,24 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5.Predict the values of array.
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values
-```
+``` 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: v.sanjay
-RegisterNumber:  212223230188
-```
-```
+Developed by: v.sanjay   
+RegisterNumber:  212223230188   
 
 import pandas as pd
 data=pd.read_csv("/content/Placement_Data.csv")
@@ -78,10 +87,7 @@ classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
 ```
-
-
 ## Output:
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/ace4da3d-4eb1-4c52-8fbc-486544a0b5eb)
 
@@ -113,17 +119,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/e85a2d70-ed6b-4512-b123-c0ada4168cf8)
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
