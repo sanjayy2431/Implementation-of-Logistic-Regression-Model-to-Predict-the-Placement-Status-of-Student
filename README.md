@@ -2,11 +2,20 @@
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Algorithm
 ```
 1.Import the standard libraries.
@@ -17,6 +26,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values
 ``` 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -89,6 +102,11 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
+<br>
+<br>
+<br>
+<br>
+<br>
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/ace4da3d-4eb1-4c52-8fbc-486544a0b5eb)
 
 
