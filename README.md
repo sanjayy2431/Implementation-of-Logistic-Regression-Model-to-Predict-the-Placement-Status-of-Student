@@ -26,20 +26,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values
 ``` 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Program:
 ```
@@ -106,7 +92,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 <br>
 <br>
 <br>
-<br>
+<br> 
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/ace4da3d-4eb1-4c52-8fbc-486544a0b5eb)
 
 
@@ -137,6 +124,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365143/e85a2d70-ed6b-4512-b123-c0ada4168cf8)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
