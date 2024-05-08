@@ -11,11 +11,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## Algorithm
 ```
 1.Import the standard libraries.
@@ -26,47 +22,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Program:
 ```
 /*
